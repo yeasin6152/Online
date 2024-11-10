@@ -1,8 +1,2 @@
-url: https://sweet-aliens-obey.loca.lt
-Password: <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.17.9</center>
-</body>
-</html>
+url: https://many-views-walk.loca.lt
+Password: 103.31.155.234
