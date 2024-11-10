@@ -1,2 +1,8 @@
-url: https://blue-banks-refuse.loca.lt
-Password: 103.31.155.234
+url: https://sweet-aliens-obey.loca.lt
+Password: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.17.9</center>
+</body>
+</html>
