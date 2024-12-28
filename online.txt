@@ -1,8 +1,2 @@
-url: https://kind-planes-hang.loca.lt
-Password: <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.17.9</center>
-</body>
-</html>
+url: https://fifty-loops-sniff.loca.lt
+Password: 58.145.184.213
